@@ -85,10 +85,6 @@ Start a new chat:
 Edit your chats:
 ![image Screenshot](./images/edit_group_chat.png)
 
-## Contribution Guidelines
-
-I welcome contributions! If you have ideas for improvements or new features, feel free to open an issue or submit a pull request.
-
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
